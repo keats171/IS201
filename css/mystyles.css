@@ -1,0 +1,62 @@
+/* For RESUME */
+
+h2{
+    font-family: 'Comic Snas', 'Courier New', Courier, monospace;
+}
+
+.darkcolor{
+    background-color: pink !important;
+}
+
+.myfontcolor{
+    color: pink !important;
+}
+
+.mylinkcolor{
+    color: rgb(194, 104, 119) !important;
+}
+
+/* For SCRATCH */
+
+.homebg{
+    background-color: rgb(230, 187, 230);
+}
+
+.h1{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
+   font-size: 50px;
+   font-weight: bolder;
+   text-decoration: underline;
+   text-align: center;
+   color: rgba(109, 2, 109, 0.74);
+   position: static;
+}
+
+.author{
+    font-style: italic;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.QHeaders{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration-line:underline;
+    font-size: 40px;
+    font-weight: bold;
+    position: static;
+}
+
+.text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    font-weight: 400;
+    position: static;
+}
+
+a:link{
+    color: rgb(235, 20, 102);
+}
+
+a:visited{
+    color: purple;
+}
